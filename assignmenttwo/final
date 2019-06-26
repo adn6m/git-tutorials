@@ -1,2 +1,3 @@
 sed 's/~/,/g' Exercise_part_2.csv |sort -rg -t"," -k6 | sed -n '2,11p' > final
-I'm messing this up :-):
+testing testing 123
+>>>>>>> e01576bd6f58cc3972e341bb223f73a88cb3bc53
