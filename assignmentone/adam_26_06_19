@@ -1,2 +1,3 @@
 find ~/ -mtime +100 | grep -E 'date|time'|head -n 10 > adam_26_06_19
 Mao is taking over the world.
+one more time!
