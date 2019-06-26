@@ -1,1 +1,1 @@
-sed 's/~/,/g' Exercise_part_2.csv |sort -rg -t"," -k5 | sed -n '2,11p' > final
+sed 's/~/,/g' Exercise_part_2.csv |sort -rg -t"," -k6 | sed -n '2,11p' > final
